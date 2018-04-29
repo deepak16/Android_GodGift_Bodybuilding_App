@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435273003026",
+    "firebase_url": "https://godgift-27b90.firebaseio.com",
+    "project_id": "godgift-27b90",
+    "storage_bucket": "godgift-27b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435273003026:android:cccd5b75740a32fa",
+        "android_client_info": {
+          "package_name": "com.example.hp.godgift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435273003026-iuosgfgupcuikf30b8egb1htb9s0p7j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTwC90jnfOrzhLmxVvduwuCAq768mkLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
